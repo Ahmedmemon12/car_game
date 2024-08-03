@@ -1,0 +1,24 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+.road {
+    background-image: url("https://i.pinimg.com/originals/89/9e/2f/899e2f419fec31db8e0bab8ffc0bc32b.gif");
+    min-height: 100vh;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    position: relative;
+}
+.car {
+    position: absolute;
+    background-image: url("https://png.pngtree.com/png-vector/20230104/ourmid/pngtree-red-gradient-car-back-view-transport-vector-png-image_6550894.png");
+    width: 100px; 
+    height: 50px; 
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    top: 40vh;
+    left: 240px;
+}
